@@ -308,13 +308,6 @@ const App = () => {
               />
             </div>
           </div>
-          <div className="flex items-center gap-4">
-            <div className="h-8 w-px bg-slate-200 mx-2"></div>
-            <button className="bg-[#1e2329] text-white px-4 py-2 rounded-lg text-sm font-bold flex items-center gap-2 hover:bg-black transition-colors shadow-sm">
-              <Plus className="w-4 h-4" />
-              Nuevo Lead
-            </button>
-          </div>
         </header>
 
         {/* Dashboard Area */}
